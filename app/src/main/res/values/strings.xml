@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">app4-Pantalla-datos</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtEditNombre">Nombre y Apellido</string>
+    <string name="txtCarrera">Carrera</string>
+    <string name="txtEditCarrera">Carrera que cursas</string>
+    <string name="txtGrupo">Grupo</string>
+    <string name="txtEditGrupo">Grupo que estas</string>
+    <string name="btnEnviar">Enviar</string>
+
+    <string name="act2TxtNombre">Esperando Nombre</string>
+    <string name="act2TxtCarrera">Esperando Carrera</string>
+    <string name="act2TxtGrupo">Esperando Grupo</string>
+    <string name="act2BtnRegresar">Regresar</string>
+</resources>
